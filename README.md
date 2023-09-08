@@ -11,7 +11,7 @@ Projeto criado para aprendizado e aprimoramento das minhas habilidades em Progra
 ## ✒️ Autores
 
 * **Onebitcode 🤘** - *Start na Programação* - Isaac Pontes, instrutor da Onebitcode, pode me proporcionar esse aprendizado.
-* * **Eu 👩🏻‍💻** - *Mão na massa* 
+* **Eu 👩🏻‍💻** - *Mão na massa* 
 
 ## 🎁 Expressão de gratidão
 
