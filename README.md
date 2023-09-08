@@ -4,8 +4,8 @@ Projeto criado para aprendizado e aprimoramento das minhas habilidades em Progra
 
 ## 🛠️ Construído com
 
-* HTML5 - Linguagem de marcação.
-* CSS3 - Linguagem de estilização.
+* HTML5 - Linguagem de Marcação.
+* CSS3 - Linguagem de Estilização.
 * JavaScript - Linguagem de Programação.
 
 ## ✒️ Autores
